@@ -2,8 +2,6 @@
 
 <a href="https://twitter.com/PeinanXu">
   <img align="left" alt="佩佩 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a href="https://t.me/Nan_Ge">
   <img align="left" alt="Telegram Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
@@ -13,7 +11,7 @@
 <br />
 <br />
 
-Hi, I'm Nange, a Full Stack Developer 🚀 from China.
+Hi, I'm , a Full Stack Developer 🚀 from China.
 
 **Languages and Tools:**  
 
@@ -33,7 +31,7 @@ Hi, I'm Nange, a Full Stack Developer 🚀 from China.
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=xos&show_icons=true&hide_border=true)
 
-⭐️ From [xos](https://github.com/xos)
+⭐️ From [XOS](https://github.com/xos)
 
 
 <a href="https://github.com/xos/Nange">
