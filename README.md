@@ -1,4 +1,4 @@
-### Hey 👋🏽, 我是[翠花!](https://www.nange.cn) 
+### Hey 👋🏽, 我是[翠花](https://www.nange.cn)!
 
 <a href="https://twitter.com/PeinanXu">
   <img align="left" alt="佩佩 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
