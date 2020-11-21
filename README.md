@@ -31,11 +31,11 @@ Hi, I'm , a Full Stack Developer 🚀 from China.
 ⭐️ From [XOS](https://github.com/xos)
 
 
-<a href="https://github.com/xos/Profiles">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xos&repo=Profiles" />
+<a href="https://github.com/xos/Config">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xos&repo=Config" />
 </a>
-<a href="https://github.com/xos/Nange">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xos&repo=Nange" />
+<a href="https://github.com/xos/Home">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xos&repo=Home" />
 </a>
 
 
