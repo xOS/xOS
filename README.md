@@ -2,7 +2,7 @@
 
 <a href="https://twitter.com/PeinanXu">
   <img align="left" alt="佩佩 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<a href="https://t.me/Nan_Ge">
+<a href="https://t.me/laoxu">
   <img align="left" alt="Telegram Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/nange.cn/">
