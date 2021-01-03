@@ -16,10 +16,10 @@
 
 <br />
 <br />
-
-  <img width="400" heigth="195" src="https://github-readme-stats.vercel.app/api?username=XOS&show_icons=true&theme=synthwave" alt="XOS :: Profile Stats" />
+<p align="left">
+  <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=XOS&show_icons=true&theme=synthwave" alt="XOS :: Profile Stats" />
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XOS&langs_count=10&theme=tokyonight&layout=compact" alt="XOS :: Top Langs" />
-
+</p>
 
 <p align="left">
  
@@ -29,4 +29,4 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Nange&theme=merko)](https://github.com/xos/Nange)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=CheckChrome&theme=dracula)](https://github.com/XOS/CheckChrome) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=BlockIPs&theme=gruvbox)](https://github.com/XOS/BlockIPs)
-<p>
+</p>
