@@ -1,10 +1,10 @@
 ### 大家好, 我是[翠花](https://www.nange.cn)！
 ---
 <a href="https://twitter.com/PeinanXu">
-  <img align="left" alt="眼儿媚 | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  <img align="left" alt="眼儿媚 | Twitter" width="26px" src="https://github.com/XOS/XOS/blob/master/icon/Twitter.svg" />
 </a>
 <a href="https://www.instagram.com/nange.cn/">
-  <img align="left" alt="眼儿媚 | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  <img align="left" alt="眼儿媚 | Instagram" width="24px" src="https://github.com/XOS/XOS/blob/master/icon/Instagram.svg" />
 </a>
 
 <br />
