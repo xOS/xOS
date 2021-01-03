@@ -22,7 +22,7 @@
 </p>
 
 ### 置顶
-
+<hr />
 <p align="left">
  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Config&theme=radical)](https://github.com/xos/Config) 
