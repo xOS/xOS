@@ -21,9 +21,8 @@
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XOS&langs_count=10&theme=tokyonight&layout=compact" alt="XOS :: Top Langs" />
 </p>
 
-### Pinned
+### 置顶
 
----
 <p align="left">
  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Config&theme=radical)](https://github.com/xos/Config) 
