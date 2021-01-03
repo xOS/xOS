@@ -11,15 +11,7 @@
 <br />
 <br />
 
-<h2 align="left">Github stats :bar_chart:</h2>
-
-<h4 align="left">Visitor's count :eyes:</h4>
-
-<p align="left"><img src="https://profile-counter.glitch.me/{XOS}/count.svg" alt="XOS :: Visitor's Count" /></p>
-
-<h4 align="left">Top langs :tongue:</h4>
-
-<p align="leftr"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XOS&langs_count=10&theme=tokyonight&layout=compact" alt="XOS :: Top Langs" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XOS&langs_count=10&theme=tokyonight&layout=compact" alt="XOS :: Top Langs" /></p>
 
 <h4 align="left">Profile stats :musical_keyboard:</h4>
 
