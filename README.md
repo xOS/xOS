@@ -13,9 +13,7 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XOS&langs_count=10&theme=tokyonight&layout=compact" alt="XOS :: Top Langs" /></p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=XOS&show_icons=true&theme=synthwave" alt="XOS :: Profile Stats" /></p>
-
-<p align="right"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=XOS&show_icons=true&theme=synthwave" alt="XOS :: Profile Stats" /><img align="right" src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 ⭐️ From [XOS](https://github.com/xos)
 
