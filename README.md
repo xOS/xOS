@@ -10,6 +10,7 @@
 <a href="https://www.instagram.com/nange.cn/">
   <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
 <br />
 <p align="left">
   <img align='' heigth="195" src="https://github-readme-stats.vercel.app/api?username=XOS&show_icons=true&theme=synthwave" alt="XOS :: Profile Stats" />
