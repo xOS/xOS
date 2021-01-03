@@ -1,5 +1,11 @@
 ### 大家好, 我是[翠花](https://www.nange.cn)！
 ---
+<a href="http://weibo.com/xuhanyu0526">
+  <img align="left" alt="佩佩 | 新浪微博" width="26px" src="https://github.com/XOS/XOS/blob/master/icon/weibo.svg" />
+</a>
+<a href="https://t.me/laoxu">
+  <img align="left" alt="眼儿媚 | Telegram Channel" width="26px" src="https://github.com/XOS/XOS/blob/master/icon/Telegram.svg" />
+</a>
 <a href="https://twitter.com/PeinanXu">
   <img align="left" alt="眼儿媚 | Twitter" width="26px" src="https://github.com/XOS/XOS/blob/master/icon/Twitter.svg" />
 </a>
