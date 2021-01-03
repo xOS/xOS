@@ -1,16 +1,13 @@
 ### 嗨 👋🏽, 我是[翠花](https://www.nange.cn)！
 ---
 <a href="https://twitter.com/PeinanXu">
-  <img alt="眼儿媚 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://t.me/laoxu">
-  <img alt="Telegram Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="眼儿媚 | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a>
 <a href="https://www.instagram.com/nange.cn/">
-  <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="眼儿媚 | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a>
 
-
+<br />
 <br />
 <p align="left">
   <img align='' heigth="195" src="https://github-readme-stats.vercel.app/api?username=XOS&show_icons=true&theme=synthwave" alt="XOS :: Profile Stats" />
