@@ -1,5 +1,6 @@
 ### 嗨 👋🏽, 我是[翠花](https://www.nange.cn)!
 ---
+<p align="left">
 <a href="https://twitter.com/PeinanXu">
   <img align="left" alt="佩佩 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <a href="https://t.me/laoxu">
@@ -8,6 +9,7 @@
 <a href="https://www.instagram.com/nange.cn/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+</p>
 
 ---
 <p align="left">
