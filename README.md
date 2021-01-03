@@ -26,4 +26,6 @@
  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Config&theme=radical)](https://github.com/xos/Config) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Home&theme=cobalt)](https://github.com/xos/Home)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Config&theme=synthwave)](https://github.com/xos/Config) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Home&theme=merko)](https://github.com/xos/Home)
 <p>
