@@ -17,6 +17,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=XOS&show_icons=true&theme=synthwave" alt="XOS :: Profile Stats" />
 </p>
 <div align="center">
+ 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Config&theme=radical)](https://github.com/xos/Config)
+ 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Home&theme=cobalt)](https://github.com/xos/Home)
 </div>
