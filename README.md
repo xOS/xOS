@@ -1,4 +1,4 @@
-### 嗨 👋🏽, 我是[翠花](https://www.nange.cn)！
+### 嗨 👋, 我是[翠花](https://www.nange.cn)！
 ---
 <a href="https://twitter.com/PeinanXu">
   <img align="left" alt="眼儿媚 | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
