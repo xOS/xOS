@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/nange.cn/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
- ---
+---
 <br />
 <br />
 
@@ -17,8 +17,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=XOS&show_icons=true&theme=synthwave" alt="XOS :: Profile Stats" />
   <img align="right" src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"/>
 </p>
----
+<br />
+<br />
 
+---
 ⭐️ From [XOS](https://github.com/xos)
 
 <a href="https://github.com/xos/Config">
