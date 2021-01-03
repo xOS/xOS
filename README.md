@@ -15,8 +15,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XOS&langs_count=10&theme=tokyonight&layout=compact" alt="XOS :: Top Langs" />
 </p>
-
----
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=XOS&show_icons=true&theme=synthwave" alt="XOS :: Profile Stats" />
 </p>
