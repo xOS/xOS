@@ -1,5 +1,4 @@
-### 嗨 👋🏽, 我是[翠花](https://www.nange.cn)！
-</h2>
+### 嗨 👋🏽, 我是[翠花](https://www.nange.cn)！</h2>
 <a href="https://twitter.com/PeinanXu">
   <img alt="眼儿媚 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -9,9 +8,7 @@
 <a href="https://www.instagram.com/nange.cn/">
   <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<br />
-
----
+<br /></h2>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XOS&langs_count=10&theme=tokyonight&layout=compact" alt="XOS :: Top Langs" />
 </p>
