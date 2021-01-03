@@ -18,8 +18,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=XOS&show_icons=true&theme=synthwave" alt="XOS :: Profile Stats" />
 </p>
-
----
 <p align="center">
 <a href="https://github.com/xos/Config">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xos&repo=Config" />
