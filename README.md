@@ -17,12 +17,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=XOS&show_icons=true&theme=synthwave" alt="XOS :: Profile Stats" />
 </p>
 <p align="center">
-<a href="https://github.com/xos/Config">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xos&repo=Config" />
-</a>
-<a href="https://github.com/xos/Home">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xos&repo=Home" />
-</a>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Config&theme=radical)](https://github.com/xos/Config)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Home&theme=cobalt)](https://github.com/xos/Home)
 </p>
-
-
