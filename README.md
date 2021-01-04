@@ -1,6 +1,6 @@
 ### 大家好, 我是[翠花](https://www.nange.cn)！
 ---
-<a href="http://weibo.com/xuhanyu0526">
+<a href="http://weibo.com/234610510">
   <img align="left" alt="佩佩 | 新浪微博" width="26px" src="https://github.com/XOS/XOS/blob/master/icon/weibo.svg" />
 </a>
 <a href="https://www.instagram.com/nange.cn/">
