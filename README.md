@@ -9,7 +9,7 @@
 <a href="https://twitter.com/PeinanXu">
   <img align="left" alt="眼儿媚 | Twitter" width="26px" src="https://github.com/XOS/XOS/blob/master/icon/Twitter.svg" />
 </a>
-<a href="https://t.me/Vmgirls">
+<a href="https://t.me/VMGirls">
   <img align="left" alt="眼儿媚 | Telegram Channel" width="26px" src="https://github.com/XOS/XOS/blob/master/icon/Telegram.svg" />
 </a>
 
