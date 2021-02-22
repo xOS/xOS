@@ -24,10 +24,10 @@
 ## 置顶
 <p align="left">
  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Config&theme=radical)](https://github.com/xos/Config) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Config&theme=radical)](https://github.com/xos/Brook) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Home&theme=cobalt)](https://github.com/xos/Home)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=StatusPage&theme=synthwave)](https://github.com/xos/StatusPage) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Nange&theme=merko)](https://github.com/xos/Nange)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=CheckChrome&theme=dracula)](https://github.com/XOS/CheckChrome) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=BlockIPs&theme=gruvbox)](https://github.com/XOS/BlockIPs)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=BlockIPs&theme=gruvbox)](https://github.com/XOS/GetIPUA)
 </p>
