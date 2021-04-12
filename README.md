@@ -29,5 +29,5 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=StatusPage&theme=synthwave)](https://github.com/xos/StatusPage) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Nange&theme=merko)](https://github.com/xos/Nange)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=CheckChrome&theme=dracula)](https://github.com/XOS/CheckChrome) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=GetIPUA&theme=gruvbox)](https://github.com/XOS/GetIPUA)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=GetInfo&theme=gruvbox)](https://github.com/XOS/GetIPUA)
 </p>
