@@ -24,7 +24,7 @@
 ## 置顶
 <p align="left">
  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Brook&theme=radical)](https://github.com/xos/Brook) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Snell&theme=radical)](https://github.com/xos/Snell) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Home&theme=cobalt)](https://github.com/xos/Home)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=StatusPage&theme=synthwave)](https://github.com/xos/StatusPage) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Nange&theme=merko)](https://github.com/xos/Nange)
