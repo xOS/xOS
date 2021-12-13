@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/nange.cn/">
   <img align="left" alt="眼儿媚 | Instagram" width="24px" src="https://github.com/XOS/XOS/blob/master/icon/Instagram.svg" />
 </a>
-<a href="https://twitter.com/PeinanXu">
+<a href="https://twitter.com/SetNote">
   <img align="left" alt="眼儿媚 | Twitter" width="26px" src="https://github.com/XOS/XOS/blob/master/icon/Twitter.svg" />
 </a>
 <a href="https://t.me/VMGirls">
