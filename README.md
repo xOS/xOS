@@ -24,7 +24,7 @@
 <p align="left">
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xOS&repo=Config&theme=radical)](https://github.com/xOS/Config)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xOS&repo=Probe&theme=dracula)](https://github.com/xOS/Probe) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xOS&repo=ServerStatus&theme=dracula)](https://github.com/xOS/ServerStatus) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xOS&repo=RealM&theme=gruvbox)](https://github.com/xOS/RealM)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xOS&repo=StatusPage&theme=synthwave)](https://github.com/xOS/StatusPage) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xOS&repo=Home&theme=cobalt)](https://github.com/xOS/Home)
