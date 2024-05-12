@@ -1,8 +1,5 @@
 ### 大家好, 我是[翠花](https://www.nange.cn)！
 ---
-<a href="http://weibo.com/234610510">
-  <img align="left" alt="翠花 | 新浪微博" width="26px" src="https://github.com/xOS/xOS/blob/master/icon/weibo.svg" />
-</a>
 <a href="https://www.instagram.com/nange.cn/">
   <img align="left" alt="眼儿媚 | Instagram" width="24px" src="https://github.com/xOS/xOS/blob/master/icon/Instagram.svg" />
 </a>
