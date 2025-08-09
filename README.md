@@ -1,9 +1,9 @@
 ### 大家好, 我是[翠花](https://www.nange.cn)！
 ---
-<a href="https://www.instagram.com/nange.cn/">
+<a href="https://www.instagram.com/SkirtedHer">
   <img align="left" alt="眼儿媚 | Instagram" width="24px" src="https://github.com/xOS/xOS/blob/master/icon/Instagram.svg" />
 </a>
-<a href="https://twitter.com/SetNote">
+<a href="https://twitter.com/OneTip">
   <img align="left" alt="眼儿媚 | Twitter" width="26px" src="https://github.com/xOS/xOS/blob/master/icon/Twitter.svg" />
 </a>
 <a href="https://t.me/SpecialHer">
