@@ -11,8 +11,3 @@
 </a>
 
 <br />
-<br />
-<p align="left">
-  <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=xOS&show_icons=true&theme=synthwave" alt="xOS :: Profile Stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xOS&langs_count=10&theme=synthwave&layout=compact" alt="xOS :: Top Langs" />
-</p>
