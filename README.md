@@ -1,4 +1,4 @@
-### 大家好, 我是[春夏](https://www.nange.cn)！
+### 你好, 我是 [春夏](https://www.nange.cn)！
 <a href="https://www.instagram.com/daintid">
   <img align="left" alt="眼儿媚 | Instagram" width="24px" src="https://github.com/xOS/xOS/blob/master/icon/Instagram.svg" />
 </a>
