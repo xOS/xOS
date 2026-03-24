@@ -5,8 +5,8 @@
 <a href="https://twitter.com/OneTip">
   <img align="left" alt="眼儿媚 | Twitter" width="26px" src="https://github.com/xOS/xOS/blob/master/icon/Twitter.svg" />
 </a>
-<a href="https://t.me/SpecialHer">
-  <img align="left" alt="少女情怀 | Telegram Channel" width="26px" src="https://github.com/xOS/xOS/blob/master/icon/Telegram.svg" />
+<a href="https://t.me/CloudEvent">
+  <img align="left" alt="收藏夹 | Telegram Channel" width="26px" src="https://github.com/xOS/xOS/blob/master/icon/Telegram.svg" />
 </a>
 
 <br />
