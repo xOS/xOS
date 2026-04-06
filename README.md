@@ -3,10 +3,16 @@
   <img align="left" alt="眼儿媚 | Instagram" width="24px" src="https://github.com/xOS/xOS/blob/master/icon/Instagram.svg" />
 </a>
 <a href="https://twitter.com/OneTip">
-  <img align="left" alt="眼儿媚 | Twitter" width="26px" src="https://github.com/xOS/xOS/blob/master/icon/Twitter.svg" />
+  <img align="left" alt="" | Twitter" width="26px" src="https://github.com/xOS/xOS/blob/master/icon/Twitter.svg" />
 </a>
 <a href="https://t.me/CloudEvent">
   <img align="left" alt="收藏夹 | Telegram Channel" width="26px" src="https://github.com/xOS/xOS/blob/master/icon/Telegram.svg" />
+</a>
+<a href="https://donate.stripe.com/28obMffW78Pogb6145">
+  <img align="left" alt="收藏夹 | Telegram Channel" width="26px" src="https://github.com/xOS/xOS/blob/master/icon/Stripe.svg" />
+</a>
+<a href="https://ifdian.net/a/herby">
+  <img align="left" alt="收藏夹 | Telegram Channel" width="26px" src="https://github.com/xOS/xOS/blob/master/icon/Ifdian.png" />
 </a>
 
 <br />
